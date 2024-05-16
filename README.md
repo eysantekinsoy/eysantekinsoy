@@ -33,7 +33,7 @@
 
 ## 🔗 Connect with me 
 <p align="left">
-<a href="https://www.linkedin.com/in/ey%C5%9Fan-tekinsoy-412369183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
+<a href="https://www.linkedin.com/in/eysantekinsoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
 <a href="https://www.instagram.com/eysantekinsoy/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="4214976" height="40" width="40" /></a>
 <a href="https://github.com/eysantekinsoy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="4214976" /></a>
 <a href="mailto:eysantekinsoy@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="eysantekinsoy" height="40" width="40" /></a>  
